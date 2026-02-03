@@ -41,12 +41,13 @@ Five different machine learning models were trained on each sampled dataset:
 ## Results
 The accuracy of each model under different sampling techniques is summarized below:
 
-Sampling1	Sampling2	Sampling3	Sampling4	Sampling5
-M1	66.67	91.7	90.39	50.0	98.7
-M2	16.67	98.47	84.72	83.33	98.7
-M3	66.67	98.91	97.82	16.67	98.26
-M4	33.33	100.0	99.34	16.67	98.7
-M5	16.67	68.56	67.69	16.67	98.7
+| Model | Sampling1 | Sampling2 | Sampling3 | Sampling4 | Sampling5 |
+|------|-----------|-----------|-----------|-----------|-----------|
+| M1 | 66.67 | 91.70 | 90.39 | 50.00 | 98.70 |
+| M2 | 16.67 | 98.47 | 84.72 | 83.33 | 98.70 |
+| M3 | 66.67 | 98.91 | 97.82 | 16.67 | 98.26 |
+| M4 | 33.33 | 100.00 | 99.34 | 16.67 | 98.70 |
+| M5 | 16.67 | 68.56 | 67.69 | 16.67 | 98.70 |
 ---
 
 ## Analysis
